@@ -3,10 +3,6 @@ Aplicação em Python para visualização da convolução de sinais em tempo con
 Bibliotecas para instalar:
 pip install numpy scipy matplotlib
 
-Convolução de Sinais Contínuos 
-
-Esta aplicação permite visualizar e estudar a convolução de sinais contínuos usando uma interface gráfica feita em Python (Tkinter). O usuário pode definir duas funções f(t) e g(t), configurar seus intervalos de existência, escolher o domínio de visualização e calcular a convolução usando NumPy ou SciPy.
-
 A interface exibe três gráficos:
 
 f(t)
